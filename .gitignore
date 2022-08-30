@@ -1,2 +1,13 @@
-*.log
-dir/
+# every log file was idnore
+*.log                
+
+
+#every dir folder was ignore    
+# dir/
+
+
+#for only ignore outer folder of dir 
+/dir/
+
+# for only ignore inside folder
+static/dir
